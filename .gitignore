@@ -36,6 +36,8 @@ examples/**/result.csv
 examples/**/result.json
 main.py
 lib/
+!apps/scrapegraph-vercel/app/lib/
+!apps/scrapegraph-vercel/app/lib/**
 *.html
 .idea
 
@@ -60,6 +62,8 @@ downloads/
 eggs/
 .eggs/
 lib/
+!apps/scrapegraph-vercel/app/lib/
+!apps/scrapegraph-vercel/app/lib/**
 lib64/
 parts/
 sdist/
